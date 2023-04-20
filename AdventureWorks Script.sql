@@ -55,7 +55,7 @@ order by
   p.ProductKey asc
 
   -- Cleansed FACT_InternetSales Table --
-  -- This could have completed this in a few different ways but thought competency using CTE may be useful to see--
+  -- This could have completed in a few different ways but I thought showing competency in using a CTE may be useful see --
 
 WITH [Total Revenue CTE] as (
 SELECT SUM(((SalesAmount - TotalProductCost) - TaxAMT) - Freight) as TotalRevenue,
