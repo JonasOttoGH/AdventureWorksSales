@@ -2,6 +2,23 @@
 
 A portfolio project looking at Adventure Works financial dataset using SQL and PowerBI. 
 
-This is another project that was done through processing data through Microsoft SQL. Later using PowerBI to display the visualisation of the data.
+This is another project that was done through processing data through Microsoft SQL. Later using PowerBI to display the visualisation of the data. 
 
-Link to PowerBI visualisation: https://app.powerbi.com/view?r=eyJrIjoiNDU0Y2Q2MjMtZTM3My00YzhlLWIwNTUtNzAyZDI2NDllNGQ4IiwidCI6ImJiMDc1YzM5LWIyMjItNGNhMy05MjMzLWZmYjUwYjY5NGFjOCJ9&pageName=ReportSection8fcbf4aad648d7ce68a4
+Ask: 
+ - What products have been sold over time and to which clients? 
+ - What is the total revenue of products including production, tax and shipping costs?
+ 
+ 
+Prepare:
+- The data used was a sample database downloaded from Microsoft. 
+- Link to data: https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
+-	Data was imported into Microsoft SQL Server
+
+
+Process:
+-	Data that was needed for visualisation was extracted using Microsoft SQL Server (please refer to script for more details)
+
+
+Analyse/Share:
+- Finally an interactive dashboard was made using PowerBI.
+- Link to final product: https://app.powerbi.com/view?r=eyJrIjoiNDU0Y2Q2MjMtZTM3My00YzhlLWIwNTUtNzAyZDI2NDllNGQ4IiwidCI6ImJiMDc1YzM5LWIyMjItNGNhMy05MjMzLWZmYjUwYjY5NGFjOCJ9&pageName=ReportSection8fcbf4aad648d7ce68a4
