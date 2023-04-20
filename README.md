@@ -1,4 +1,4 @@
-# AdventureWorksSales
+# AdventureWorksSales Using PowerBI
 
 A portfolio project looking at Adventure Works financial dataset using SQL and PowerBI. 
 
