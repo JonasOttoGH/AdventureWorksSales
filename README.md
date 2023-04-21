@@ -1,6 +1,6 @@
-# AdventureWorksSales Using PowerBI
+# AdventureWorksSales Using Power BI
 
-A portfolio project looking at Adventure Works financial dataset using SQL and PowerBI. 
+A portfolio project looking at Adventure Works financial dataset using SQL and Power BI. 
 
 This is another project that was done through processing data through Microsoft SQL. Later using PowerBI to display the visualisation of the data. 
 
@@ -20,5 +20,5 @@ Process:
 
 
 Analyse/Share:
-- Finally an interactive dashboard was made using PowerBI.
+- Finally an interactive dashboard was made using Power BI.
 - Link to final product: https://app.powerbi.com/view?r=eyJrIjoiNDU0Y2Q2MjMtZTM3My00YzhlLWIwNTUtNzAyZDI2NDllNGQ4IiwidCI6ImJiMDc1YzM5LWIyMjItNGNhMy05MjMzLWZmYjUwYjY5NGFjOCJ9&pageName=ReportSection8fcbf4aad648d7ce68a4
