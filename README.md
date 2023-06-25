@@ -2,7 +2,7 @@
 
 A portfolio project looking at Adventure Works financial dataset using SQL and Power BI. 
 
-This is another project that was done through processing data through Microsoft SQL. Later using PowerBI to display the visualisation of the data. 
+This is another project that was done by processing data through Microsoft SQL. Later using PowerBI to display the visualisation of the data. 
 
 Ask: 
  - What products have been sold over time and to which clients? 
